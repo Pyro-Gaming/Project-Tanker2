@@ -13,7 +13,7 @@ public class TankerMain extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		img = new Texture("simple.png");
+		img = new Texture("badlogic.jpg");
 	}
 
 	@Override
