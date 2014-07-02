@@ -8,5 +8,8 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new TankerMain(), config);
+		// erics a FEG
+		// punish eric for saying a bad no no
+		// rape his mother
 	}
 }
