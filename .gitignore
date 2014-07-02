@@ -26,6 +26,9 @@ android/gen/
 *.ipr
 *.iws
 *.iml
+*.apk
+*ap_
+*.dex
 out/
 com_crashlytics_export_strings.xml
 
