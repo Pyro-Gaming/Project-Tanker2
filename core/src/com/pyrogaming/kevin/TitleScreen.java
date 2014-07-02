@@ -14,7 +14,7 @@ public class TitleScreen extends PyroScreen
 	public TitleScreen(Game game)   //
 	{                               //DO NOT TOUCH
 		super(game);                //
-	}                               //
+	}                               //ok... -kevin
 	
 	@Override
 	public void render(float delta)
@@ -60,7 +60,7 @@ public class TitleScreen extends PyroScreen
 	@Override
 	public void dispose()
 	{
-		stage.dispose();
+		stage.dispose(); //eric your mothers a whore and you know it
 	}
 
 }
